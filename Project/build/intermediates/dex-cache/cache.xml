@@ -1,2 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1f1deee1c12c7e4b1ae171fc8be54faaed669a8b">
+        <dex dex="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ffbf8ea5362657038ecafa818a681cab7ab59aee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alvaromenezes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_a6e0e5f679df764fd1c99ea51c385769861f675d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_f8eedec57bb5bf7612718db60f3d2ced9bf8ec4d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_e0652cacbc078b4b95d5aabd0c6b1a0536d5bffd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_d6213b5d855940f87aa7ce1cbdcfb9a5881bd51b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_4de76870a6e3e8ffb23648d3b97a2d63ccf65f24/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e178514b367f205e6e92674b9670b9487dcae5f6">
+        <dex dex="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e87c588a3169b6f3ca7581215ae73f8b386aac7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/alvaromenezes/Documents/WORK/CropTrimTransparentImage/Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_e6481b3bd4ca5543e2e20d9bac63d59611b589dc/classes.dex" />
+    </item>
+
+</items>

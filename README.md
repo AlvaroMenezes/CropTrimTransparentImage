@@ -1,7 +1,7 @@
 # Crop / Trim Transparent Border <br>
 
 Android code to crop/trim transparent border of a bitmap, returning a rectangle cropped image.<br><br>
-Work fast in my tests. The results are like the images bellow <br>
+Work fast in my tests. The results are like the images bellow:<br>
 
 <table style="width:100%">
 	<tr>
