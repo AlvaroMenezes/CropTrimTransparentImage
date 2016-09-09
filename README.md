@@ -5,10 +5,24 @@ This code cut a squared image.<br><br>
 Easy and fast way to trim as images bellow <br>
 
 
-<p align="center">
-  <img title="BEFORE"  src="https://raw.githubusercontent.com/AlvaroMenezes/CropTrimTransparentImage/master/img/before.png" width="350"/>
-  <img title="AFTER"  src="https://raw.githubusercontent.com/AlvaroMenezes/CropTrimTransparentImage/master/img/after.png" width="350"/>
-</p>
+
+
+<table style="width:100%">
+  <tr>
+    <th>BEFORE</th>
+    <th>AFTER</th>
+  </tr>
+  <tr>
+    <td>
+    	<img title="BEFORE"  src="https://raw.githubusercontent.com/AlvaroMenezes/CropTrimTransparentImage/master/img/before.png" width="350"/>
+	</td>
+    <td>
+    	<img title="AFTER"  src="https://raw.githubusercontent.com/AlvaroMenezes/CropTrimTransparentImage/master/img/after.png" width="350"/>
+    </td>
+  </tr>
+  
+</table>
+
 
 ##How to use
 
@@ -19,8 +33,7 @@ Easy and fast way to trim as images bellow <br>
 	imageView.setImageBitmap(ct.crop(bmp));
 
 ```
-  Easy just add this [class](/Project/app/src/main/java/alvaromenezes/com/trimimage/CropTransparent.java) into your project
-
+  Easy to use, just add this [class](/Project/app/src/main/java/alvaromenezes/com/trimimage/CropTransparent.java) into your project and go ahead.
 
 
 ##Developed By
