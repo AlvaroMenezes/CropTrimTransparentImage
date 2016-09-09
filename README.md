@@ -6,8 +6,14 @@ Easy and fast way to trim as images bellow <br>
 
 
 <p align="center">
-	BEFORE                        AFTER
+	<p align="center">
+		BEFORE
+	</p>
+	<p align="center">
+		AFTER
+	</p>
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlvaroMenezes/CropTrimTransparentImage/master/img/before.png" width="350"/>
   <img src="https://raw.githubusercontent.com/AlvaroMenezes/CropTrimTransparentImage/master/img/after.png" width="350"/>
@@ -22,7 +28,7 @@ Easy and fast way to trim as images bellow <br>
 	imageView.setImageBitmap(ct.crop(bmp));
 
 ```
-[Just use this class](/CropTrimTransparentImage/blob/master/Project/app/src/main/java/alvaromenezes/com/trimimage/CropTransparent.java)
+[Just use this class](/Project/app/src/main/java/alvaromenezes/com/trimimage/CropTransparent.java)
 
 
 
