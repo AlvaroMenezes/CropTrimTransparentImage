@@ -1,13 +1,14 @@
 # Crop / Trim Transparent Border <br>
 
-Android code to crop / trim transparent border of a bitmap.<br>
-This code cut a squared image.<br><br>
-Easy and fast way to trim as images bellow <br>
+Android code to crop/trim transparent border of a bitmap, returning a rectangle cropped image.<br>
+<br><br>
+
+Work fast in my tests. The results are like the images bellow <br>
 
 
 
-
-<table style="width:100%">
+<p align="center">
+<table style="width:100%"  cellspacing="0" cellpadding="0">
   <tr>
     <th>BEFORE</th>
     <th>AFTER</th>
@@ -22,18 +23,21 @@ Easy and fast way to trim as images bellow <br>
   </tr>
   
 </table>
+</p>
 
 
 ##How to use
 
 ```java
 
+
 	Bitmap bmp = BitmapFactory.decodeResource(getResources(), R.drawable.your_img);
 	CropTransparent ct = new CropTransparent();
 	imageView.setImageBitmap(ct.crop(bmp));
+	
 
 ```
-  Easy to use, just add this [class](/Project/app/src/main/java/alvaromenezes/com/trimimage/CropTransparent.java) into your project and go ahead.
+Easy to use, just add this [class](/Project/app/src/main/java/alvaromenezes/com/trimimage/CropTransparent.java) into your project and go ahead.
 
 
 ##Developed By
@@ -42,7 +46,5 @@ Easy and fast way to trim as images bellow <br>
 
 ##License
 ```
-
 FREE! Use as you like ;)
-
 ```
