@@ -19,9 +19,14 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //teste
+
+
+
+        imageView.setImageBitmap(getImageraw());
 
         imageView = (ImageView) findViewById(R.id.img);
-        imageView.setImageBitmap(getImageraw());
+
 
         imageView.setOnClickListener(new View.OnClickListener() {
             @Override
